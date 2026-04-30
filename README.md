@@ -66,3 +66,11 @@ If you find this repository helpful, please consider giving it a ⭐ and follow 
 ---
 
 ✨ Keep Learning, Keep Growing!
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/Anjanee123/SQL-pratice-question/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
+<!---LeetCode Topics End-->
