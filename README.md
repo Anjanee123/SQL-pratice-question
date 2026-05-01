@@ -73,4 +73,5 @@ If you find this repository helpful, please consider giving it a ⭐ and follow 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Anjanee123/SQL-pratice-question/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
+| [1934-confirmation-rate](https://github.com/Anjanee123/SQL-pratice-question/tree/main/1934-confirmation-rate/) | Medium |
 <!---LeetCode Topics End-->
