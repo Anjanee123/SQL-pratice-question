@@ -75,5 +75,6 @@ If you find this repository helpful, please consider giving it a ⭐ and follow 
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Anjanee123/SQL-pratice-question/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [1075-project-employees-i](https://github.com/Anjanee123/SQL-pratice-question/tree/main/1075-project-employees-i/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Anjanee123/SQL-pratice-question/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
+| [1633-percentage-of-users-attended-a-contest](https://github.com/Anjanee123/SQL-pratice-question/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
 | [1934-confirmation-rate](https://github.com/Anjanee123/SQL-pratice-question/tree/main/1934-confirmation-rate/) | Medium |
 <!---LeetCode Topics End-->
