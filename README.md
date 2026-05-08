@@ -73,6 +73,7 @@ If you find this repository helpful, please consider giving it a ⭐ and follow 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Anjanee123/SQL-pratice-question/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
+| [1070-product-sales-analysis-iii](https://github.com/Anjanee123/SQL-pratice-question/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1075-project-employees-i](https://github.com/Anjanee123/SQL-pratice-question/tree/main/1075-project-employees-i/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Anjanee123/SQL-pratice-question/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1211-queries-quality-and-percentage](https://github.com/Anjanee123/SQL-pratice-question/tree/main/1211-queries-quality-and-percentage/) | Easy |
