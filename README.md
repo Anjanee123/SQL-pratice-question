@@ -75,6 +75,7 @@ If you find this repository helpful, please consider giving it a ⭐ and follow 
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Anjanee123/SQL-pratice-question/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0596-classes-with-at-least-5-students](https://github.com/Anjanee123/SQL-pratice-question/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0619-biggest-single-number](https://github.com/Anjanee123/SQL-pratice-question/tree/main/0619-biggest-single-number/) | Easy |
+| [1045-customers-who-bought-all-products](https://github.com/Anjanee123/SQL-pratice-question/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1070-product-sales-analysis-iii](https://github.com/Anjanee123/SQL-pratice-question/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1075-project-employees-i](https://github.com/Anjanee123/SQL-pratice-question/tree/main/1075-project-employees-i/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Anjanee123/SQL-pratice-question/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
